@@ -10,3 +10,6 @@
 ``` python
 Linguagem = markdown
 ```
+- [x] Python
+- [ ] SQL
+- [ ] Power BI
